@@ -1,1 +1,6 @@
-# This is an Assembly
+# Assembly.Name
+
+## Namespaces
+| | |
+|---|---|
+| [Namespace](/Assembly.Name/namespace/) | This namespace is an example |
